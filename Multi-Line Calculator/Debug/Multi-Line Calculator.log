@@ -1,0 +1,13 @@
+﻿  Multi-Line Calculator.cpp
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(23,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(52,31): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(69,31): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(93,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(94,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(99,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(115,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(131,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(147,35): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(170,18): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Multi-Line Calculator\Multi-Line Calculator.cpp(172,22): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Multi-Line Calculator.vcxproj -> C:\Users\canerkoskos\source\repos\Multi-Line Calculator\Debug\Multi-Line Calculator.exe
